@@ -1,6 +1,23 @@
 # vue-qq
 
-> A Vue.js project
+> 第一次用Vue模仿手机QQ做的项目。代码有点乱。
+>
+> 登入账户：111，密码：111
+>
+> 只有前端所以很多功能没有做（比如：注册，聊天。。）
+
+#### 项目展示
+
+登入页：
+
+<img src="E:\github\Vue-qq\static\images\login-1.png" alt="login_1" style="zoom: 67%;" /><img src="E:\github\Vue-qq\static\images\login-2.png" alt="login_1" style="zoom: 67%;" /> 
+
+主页：
+
+<img src="E:\github\Vue-qq\static\images\home-1.png" alt="home-1" style="zoom:67%;" /><img src="E:\github\Vue-qq\static\images\home-2.png" alt="home-2" style="zoom:67%;" /><img src="E:\github\Vue-qq\static\images\home-3.png" alt="home-3" style="zoom:67%;" />
+<img src="E:\github\Vue-qq\static\images\home-4.png" alt="home-4" style="zoom:67%;" />
+
+
 
 ## Build Setup
 
