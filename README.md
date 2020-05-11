@@ -10,12 +10,12 @@
 
 登入页：
 
-<img src="https://github.com/cx978563372/Vue-qq/tree/master/static/images/login-1.png" alt="login_1" style="zoom: 67%;" /><img src="https://github.com/cx978563372/Vue-qq/tree/master/static/images/login-2.png" alt="login_1" style="zoom: 67%;" /> 
+<img src="/static/images/login-1.png" alt="login_1" style="zoom: 67%;" /><img src="/static/images/login-2.png" alt="login_1" style="zoom: 67%;" /> 
 
 主页：
 
-<img src="static/images/home-1.png" alt="home-1" style="zoom:67%;" /><img src="https://github.com/cx978563372/Vue-qq/tree/master/static/images/home-2.png" alt="home-2" style="zoom:67%;" /><img src="https://github.com/cx978563372/Vue-qq/tree/master/static/images/home-3.png" alt="home-3" style="zoom:67%;" />
-<img src="https://github.com/cx978563372/Vue-qq/tree/master/static/images/home-4.png" alt="home-4" style="zoom:67%;" />
+<img src="static/images/home-1.png" alt="home-1" style="zoom:67%;" /><img src="/static/images/home-2.png" alt="home-2" style="zoom:67%;" /><img src="/static/images/home-3.png" alt="home-3" style="zoom:67%;" />
+<img src="/static/images/home-4.png" alt="home-4" style="zoom:67%;" />
 
 
 
